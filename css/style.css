@@ -1,0 +1,241 @@
+.sosmed {
+  background-color: white;
+  border-bottom: 1px solid grey;
+  height: 3rem;
+  text-align: center;
+}
+
+.login1 {
+  text-align: center;
+  padding-top: 0.7rem;
+  font-weight: bold;
+}
+
+.ig {
+  width: 50%;
+  display: inline-block;
+  position: absolute;
+  margin-top: -10px;
+}
+
+.twt {
+  width: 40%;
+  display: inline-block;
+  position: absolute;
+  margin-top: -5px;
+  margin-left: 5.3rem;
+}
+
+.fb {
+  width: 50%;
+  display: inline-block;
+  position: absolute;
+  margin-left: 2.5rem;
+  margin-top: -5px;
+}
+
+.find {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  position: absolute;
+  margin: 10px;
+  text-align: center;
+  margin-left: 3.2rem;
+}
+
+.logo {
+  width: 100%;
+  float: left;
+  height: 40%;
+  padding: 5px;
+  text-align: center;
+}
+
+.menu {
+  text-align: center;
+  padding-top: 2%;
+}
+
+.menu1 {
+  text-align: center;
+  padding-top: 2%;
+}
+
+.menu2 {
+  text-align: center;
+  padding-top: 2.2%;
+}
+
+.form-control {
+  text-align: center;
+}
+
+.cari {
+  width: 20px;
+  position: relative;
+}
+
+.menu3 {
+  text-align: center;
+  padding-top: 2%;
+}
+
+.menu4 {
+  text-align: center;
+  padding-top: 2%;
+}
+
+.row {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+
+.card {
+  border-radius: 10px;
+  border: none;
+}
+
+.card-body {
+  background-color: whitesmoke;
+  font-size: 10px;
+}
+
+.card-body2 {
+  background-color: #f1c40f;
+  font-weight: bold;
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.jumbotron {
+  background-image: url(../img/bg.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+}
+
+.konten1 {
+  border-radius: 10px;
+}
+
+.textkonten1 {
+  text-align: center;
+  margin-top: -1rem;
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.hargakonten1 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.konten2 {
+  border-radius: 10px;
+  margin-top: 5rem;
+}
+
+.textkonten2 {
+  text-align: center;
+  margin-top: -1rem;
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.hargakonten2 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.minion {
+  width: 40%;
+  padding-top: 2.4rem;
+}
+
+.profil1 {
+  text-align: center;
+  font-size: 23px;
+  text-decoration: underline;
+}
+
+.founder {
+  text-align: center;
+  font-size: 18px;
+  margin-top: -18px;
+}
+
+.profil1a {
+  text-align: center;
+  font-size: 15px;
+}
+
+.stitch {
+  width: 40%;
+}
+
+.cofounder {
+  text-align: center;
+  font-size: 18px;
+  margin-top: -18px;
+}
+
+.profil2 {
+  text-align: center;
+  font-size: 23px;
+  text-decoration: underline;
+  margin-top: -27px;
+}
+
+.profil2a {
+  text-align: center;
+  font-size: 15px;
+}
+
+.deskripsi {
+  font-size: 20px;
+  text-align: justify;
+}
+
+.logoakun {
+  width: 15%;
+  padding-top: 20px;
+}
+
+.nama {
+  width: 20%;
+  height: 9%;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 17px;
+  border: 2px solid grey;
+}
+.username {
+  width: 20%;
+  height: 9%;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 17px;
+  border: 2px solid grey;
+}
+.email {
+  width: 20%;
+  height: 9%;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 17px;
+  border: 2px solid grey;
+}
+.password {
+  width: 20%;
+  height: 9%;
+  text-align: center;
+  border-radius: 10px;
+  font-size: 17px;
+  border: 2px solid grey;
+}
+
+.btn-success {
+  margin-top: 10px;
+}
